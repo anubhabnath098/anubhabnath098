@@ -17,13 +17,13 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 ### Frontend
 - **Languages:** HTML, CSS, JavaScript, TypeScript
 - **Frameworks/Libraries:** React, Next.js
-- **Styling:** Tailwind CSS
-
+- **Styling:** Tailwind CSS, ShadCN, Material UI, Framer Motion
 ### Backend
-- **Languages & Frameworks:** Node.js, Express
+- **Languages & Frameworks:** Node.js, Express, Hono
 
 ### Database
 - **NoSQL:** MongoDB
+- **SQL:** OracleSQL
 
 ### DevOps & Tools
 - Vagrant, Git, Maven, AWS
