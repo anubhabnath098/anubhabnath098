@@ -6,9 +6,8 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 ## 🚀 About Me
 
-- **Name:** @anubhabnath098
+- **Username:** @anubhabnath098
 - **Interests:** Web Development, DevOps, Cloud Technologies
-- **Currently Learning:** Java, Jenkins, Docker, Kubernetes, AWS, SQL
 
 ---
 
@@ -23,21 +22,8 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 ### Database
 - **NoSQL:** MongoDB
-- **SQL:** OracleSQL
+- **SQL:** OracleSQL, MySQL
 
-### DevOps & Tools
-- Vagrant, Git, Maven, AWS
-
----
-
-## 🌱 My Journey
-
-I'm on a continuous learning path, diving deeper into:
-- **Cloud Technologies:** Expanding my knowledge of AWS services.
-- **Containerization:** Mastering Docker and Kubernetes.
-- **Automation:** Exploring Java and Jenkins to enhance CI/CD pipelines.
-
----
 
 ## 🤝 Let's Connect!
 
