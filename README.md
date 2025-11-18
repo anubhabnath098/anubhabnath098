@@ -1,21 +1,21 @@
 # Hey there, I'm Anubhab Nath 👋
 
-Welcome to my GitHub profile! I'm passionate about building innovative solutions and continuously exploring the intersection of Web Development, DevOps, and Cloud Technologies.
+Welcome to my GitHub profile! I'm passionate about building innovative solutions and continuously exploring the intersection of Machine Learning, Deep learning and Web Development.
 
 ---
 
 ## 🚀 About Me
 
 - **Username:** @anubhabnath098
-- **Interests:** Web Development, DevOps, Cloud Technologies
+- **Interests:** Machine Learning, Deep Learning, Web Development
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-- **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Next.js
+- **Languages:** Python, Java, C++, JavaScript, TypeScript
+- **Frameworks/Libraries:** Tensorflow, Keras, Numpy, React, Next.js
 - **Styling:** Tailwind CSS, ShadCN, Material UI, Framer Motion
 ### Backend
 - **Languages & Frameworks:** Node.js, Express, Hono
